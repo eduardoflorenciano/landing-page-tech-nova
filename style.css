@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.hero-section {
+    background: linear-gradient(to right, #0d6efd, #6610f2);
+    color: white;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+section {
+    scroll-margin-top: 80px;
+}
+
+footer {
+    font-size: 0.9rem;
+}
