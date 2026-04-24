@@ -102,4 +102,4 @@ Por ser um projeto estático (HTML/CSS puro + CDN), não requer instalação.
 1. Instale a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VS Code.
 2. Clique com o botão direito em `index.html` → **"Open with Live Server"**.
 
-> Atenção: A conexão com a internet é necessária para carregar o Bootstrap via CDN e a imagem de placeholder do hero.
+> **Atenção:** A conexão com a internet é necessária para carregar o Bootstrap via CDN e a imagem de placeholder do hero.
