@@ -1,6 +1,6 @@
 # TechNova - Landing Page
 
-> Landing page institucional de uma startup de Inteligência Artificial, desenvolvida com HTML5, CSS3 e Bootstrap 5. Apresenta serviços, missão e formulário de contato com consentimento de dados.
+Landing page institucional de uma startup de Inteligência Artificial, desenvolvida com HTML5, CSS3 e Bootstrap 5. Apresenta serviços, missão e formulário de contato com consentimento de dados.
 
 ---
 
